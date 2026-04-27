@@ -1,6 +1,6 @@
 #### Hi, I’m @JiiB1 !
 
-Im a french developper and currently a student in computer science.
+Im a French developer and currently a student in computer science.
 
 My personnal goals are :
 - To learn always more usefull and not-so-usefull technologies or things.
